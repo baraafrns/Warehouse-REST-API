@@ -49,7 +49,7 @@ Project ini dibuat sebagai latihan Backend Development sekaligus portofolio untu
 
 Clone repository
 
-git clone https://github.com/username/stock-gudang-api.git
+git clone https://github.com/baraafrns/Warehouse-REST-API.git
 
 Masuk ke folder project
 
