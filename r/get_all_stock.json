@@ -1,0 +1,20 @@
+// METHOD: GET
+// ENDPOINT: /api/stok
+// NO PAYLOAD
+
+{
+  "status": "success",
+  "message": "Berhasil mengambil data stok gudang",
+  "data": [
+    {
+      "id": 1,
+      "sku": "BRG-001",
+      "nama": "Laptop ASUS Rog",
+      "kategori": "Elektronik",
+      "stok": 15,
+      "lokasi": "Rak A-1",
+      "created_at": "2026-06-28T04:20:00.000Z",
+      "updated_at": "2026-06-28T04:20:00.000Z"
+    }
+  ]
+}

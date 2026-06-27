@@ -1,0 +1,27 @@
+// METHOD : PUT
+// ENDPOINT : /api/stock/1
+
+{
+  "nama": "Laptop ASUS Rog Strix G15",
+  "stok": 20,
+  "lokasi": "Rak VIP-1"
+}
+
+{
+  "status": "success",
+  "message": "Data stok berhasil diperbarui",
+  "data": {
+    "id": 1,
+    "sku": "BRG-001",
+    "nama": "Laptop ASUS Rog Strix G15",
+    "kategori": "Elektronik",
+    "stok": 20,
+    "lokasi": "Rak VIP-1",
+    "created_at": "2026-06-28T04:00:00.000Z",
+    "updated_at": "2026-06-28T04:45:12.000Z"
+  }
+}
+
+
+
+

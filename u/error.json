@@ -1,0 +1,12 @@
+{
+  "status": "fail",
+  "message": "Gagal! Jumlah perubahan stok tidak boleh kurang dari 0."
+}
+
+    "sku": "BRG-001",
+    "nama": "Laptop ASUS Rog",
+    "kategori": "Elektronik",
+    "stok": 20,
+    "lokasi": "Rak VIP-1"
+  }
+}

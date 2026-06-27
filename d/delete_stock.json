@@ -1,0 +1,8 @@
+// METHOD: DELETE
+// ENDPOINT : /api/stok/2
+// NO PAYLOAD
+
+{
+  "status": "success",
+  "message": "Barang dengan ID 2 berhasil dihapus dari gudang."
+}

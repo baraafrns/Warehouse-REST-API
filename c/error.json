@@ -1,0 +1,9 @@
+{
+  "status": "fail",
+  "message": "Gagal! Jumlah stok tidak boleh bernilai negatif."
+}
+
+{
+  "status": "fail",
+  "message": "SKU sudah terdaftar di gudang!"
+}
